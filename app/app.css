@@ -7,6 +7,7 @@
 @import "../node_modules/@syncfusion/ej2-react-splitbuttons/styles/material.css";
 @import "../node_modules/@syncfusion/ej2-react-dropdowns/styles/material.css";
 @import "tailwindcss";
+@import '@syncfusion/ej2-base/styles/material.css';
 
 @theme {
   --font-figtree: "Figtree", sans-serif;
