@@ -74,7 +74,7 @@ declare interface Trip {
   payment_link: string;
 }
 
-declare interface TripCardProps {
+declare interface ParkingCardProps {
   id: string;
   name: string;
   location: string;
