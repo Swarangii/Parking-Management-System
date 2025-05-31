@@ -153,7 +153,7 @@ export const dashboardStats={
 export const allParkings = [{
   id: 1,
   name: "Tropical Rewind",
-  imageUrls: ["/assets/images/sample1.jpg"],
+  imageUrls: ["/assets/images/sample.jpeg"],
   itinerary: [{ location: "Thailand" }],
   tags: ["Adventure", "Culture"],
   parkingType: "Solo",
@@ -162,7 +162,7 @@ export const allParkings = [{
   {
     id: 2,
     name: "French Reverie",
-    imageUrls: ["/assets/images/sample2.jpg"],
+    imageUrls: ["/assets/images/sample.jpeg"],
     itinerary: [{ location: "Paris" }],
     tags: ["Relaxation", "Culinary"],
     parkingType: "Family",
@@ -171,7 +171,7 @@ export const allParkings = [{
   {
     id: 3,
     name: "Zen Break",
-    imageUrls: ["/assets/images/sample3.jpg"],
+    imageUrls: ["/assets/images/sample.jpeg"],
     itinerary: [{ location: "Japan" }],
     tags: ["Shopping", "Luxury"],
     parkingType: "Couple",
@@ -180,7 +180,7 @@ export const allParkings = [{
   {
     id: 4,
     name: "Adventure in Westeros",
-    imageUrls: ["/assets/images/sample4.jpg"],
+    imageUrls: ["/assets/images/sample.jpeg"],
     itinerary: [{ location: "Croatia" }],
     tags: ["Historical", "Culture"],
     parkingType: "Friends",
